@@ -36,7 +36,7 @@ AdminArchitect assets are provided in ES6 and less/sass formats, so to convert t
 
 ```bash
 npm i
-mpm run [dev|production|watch]
+npm run [dev|production|watch]
 ```
 
 ## Editors
